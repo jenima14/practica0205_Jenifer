@@ -1,0 +1,6 @@
+nombre = input("Escribe tu nombre: ")
+edad = input("Escribe tu edad: ")
+direccion = input("Escribe tu dirección: ")
+telefono = input("Escribe tu número de teléfono: ")
+print(nombre + " tiene " + edad + " años, vive en " + direccion + " y su número de teléfono es " + telefono + ".")
+input()
